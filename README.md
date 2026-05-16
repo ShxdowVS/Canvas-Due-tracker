@@ -1,4 +1,4 @@
-# Canvas-Due-tracker
+
 # Canvas Due Tracker
 
 A small Chrome extension that pulls everything due from your Canvas LMS into one popup, organised by subject. Per-course toggles let you choose where each course pulls from. No API token needed — it uses your existing Canvas browser session.
